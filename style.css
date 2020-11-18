@@ -1,0 +1,35 @@
+.whcarousel {
+    height: 200px;
+    width: 1200px;
+    
+  }
+
+  @media all and (min-width: 992px) {
+    .navbar{ padding-top: 0; padding-bottom: 0; }
+    .navbar .has-megamenu{position:static!important;}
+    .navbar .megamenu{left:20%; right:0; width:1000px; padding:20px;  }
+    .navbar .nav-link{ padding-top:1rem; padding-bottom:1rem;  }
+  }
+  .row-striped:nth-of-type(odd){
+    background-color: #efefef;
+    border-left: 4px #000000 solid;
+  }
+  
+  .row-striped:nth-of-type(even){
+    background-color: #ffffff;
+    border-left: 4px #efefef solid;
+  }
+  
+  .row-striped {
+      padding: 15px 0;
+  }
+
+  a:link{
+    color: darkgreen;
+  }
+  a{
+    color: darkgreen;
+  }
+  .btn-link{
+    color: black;
+  }
