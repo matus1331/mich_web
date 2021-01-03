@@ -62,7 +62,7 @@ h1, h2, h3, h4, h5 {
   color: #0e918c !important;
 }
 
-.novinka-bg, .oznam-bg, .ucet-bg, .verejne-bg, #myNavbar  {
+.novinka-bg, .oznam-bg, .ucet-bg, .verejne-bg, .kom-bg, #myNavbar  {
   background-image: linear-gradient(#61b15a, #b8de6f);
   
 }
